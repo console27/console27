@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 205" width="1200" height="205" role="img" aria-labelledby="title"><title id="title">Console27 technical toolkit: Linux, Docker, LXD and LXC, systemd, Python, Bash, Git, and networking</title>
+<defs><linearGradient id="a" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#121626"/><stop offset="1" stop-color="#0A111E"/></linearGradient><linearGradient id="b" x1="0" x2="1"><stop stop-color="#967AFE"/><stop offset="1" stop-color="#67D8F6"/></linearGradient></defs>
+<rect width="1200" height="205" rx="22" fill="url(#a)"/>
+<rect x="1" y="1" width="1198" height="203" rx="21" stroke="#4A4F72" stroke-opacity=".58" fill="none"/>
+<text x="38" y="43" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#A99AF8">// TECHNICAL TOOLKIT</text>
+<text x="1157" y="43" text-anchor="end" font-family="DejaVu Sans Mono,monospace" font-size="12" letter-spacing="1.5" fill="#66738C">STACK / v1</text>
+<path d="M38 57H1162" stroke="#323B53"/>
+<g font-family="Arial,sans-serif" font-weight="700" font-size="22" fill="#E9ECFA" text-anchor="middle">
+<rect x="38" y="79" width="165" height="65" rx="13" fill="#1B2032" stroke="#595080"/><text x="121" y="119">Linux</text>
+<rect x="230" y="79" width="165" height="65" rx="13" fill="#1B2032" stroke="#485C7A"/><text x="312" y="119">Docker</text>
+<rect x="423" y="79" width="165" height="65" rx="13" fill="#1B2032" stroke="#485C7A"/><text x="505" y="119">LXD / LXC</text>
+<rect x="615" y="79" width="165" height="65" rx="13" fill="#1B2032" stroke="#595080"/><text x="697" y="119">systemd</text>
+<rect x="807" y="79" width="165" height="65" rx="13" fill="#1B2032" stroke="#485C7A"/><text x="889" y="119">Python</text>
+<rect x="999" y="79" width="163" height="65" rx="13" fill="#1B2032" stroke="#595080"/><text x="1081" y="119">Bash</text>
+</g>
+<circle cx="40" cy="176" r="3" fill="#77DEA9"/><text x="55" y="180" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#9AACC5">+ Git</text>
+<circle cx="158" cy="176" r="3" fill="#77DEA9"/><text x="172" y="180" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#9AACC5">+ SSH</text>
+<circle cx="275" cy="176" r="3" fill="#77DEA9"/><text x="289" y="180" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#9AACC5">+ networking</text>
+<circle cx="470" cy="176" r="3" fill="#77DEA9"/><text x="484" y="180" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#9AACC5">+ self-hosting</text>
+<circle cx="690" cy="176" r="3" fill="#77DEA9"/><text x="704" y="180" font-family="DejaVu Sans Mono,monospace" font-size="14" fill="#9AACC5">+ automation</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-labelledby="title desc">
+<title id="title">Console27 - Linux systems and cloud infrastructure</title>
+<desc id="desc">Premium dark terminal-style profile banner, featuring Console27 and founder of StrenoxCloud.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070A14"/><stop offset=".58" stop-color="#111327"/><stop offset="1" stop-color="#080D17"/></linearGradient>
+ <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(330 148) rotate(10) scale(550 300)"><stop stop-color="#7447DB" stop-opacity=".30"/><stop offset="1" stop-color="#7447DB" stop-opacity="0"/></radialGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8F6BFF"/><stop offset=".6" stop-color="#66D4FF"/><stop offset="1" stop-color="#66D4FF" stop-opacity="0"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#9A9FB9" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <clipPath id="clip"><rect width="1200" height="430" rx="25"/></clipPath>
+ <filter id="blur"><feGaussianBlur stdDeviation="36"/></filter>
+</defs>
+<g clip-path="url(#clip)">
+<rect width="1200" height="430" fill="url(#bg)"/>
+<rect width="1200" height="430" fill="url(#grid)"/>
+<ellipse cx="350" cy="135" rx="405" ry="200" fill="#8064F7" opacity=".10" filter="url(#blur)"/>
+<rect width="1200" height="430" fill="url(#glow)"/>
+<path d="M0 403H1200" stroke="#9179CF" opacity=".3"/><path d="M570 62V369" stroke="#7A819C" stroke-opacity=".2"/>
+<path d="M27 90V27H110" fill="none" stroke="#A88AFE" stroke-width="2"/>
+<path d="M1093 27H1173V100" fill="none" stroke="#73CCF1" stroke-width="2"/>
+<path d="M27 341V403H112" fill="none" stroke="#A88AFE" stroke-width="2"/>
+<path d="M1097 403H1173V335" fill="none" stroke="#73CCF1" stroke-width="2"/>
+<!-- brand stamp -->
+<rect x="67" y="72" width="27" height="27" rx="6" fill="none" stroke="#9A7CFA" stroke-width="2"/>
+<path d="M86 80l-8 6 8 6" fill="none" stroke="#8FE7FA" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="110" y="91" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="14" letter-spacing="3" fill="#BBB8D7">IDENTITY / 027</text>
+<text x="67" y="210" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="100" letter-spacing="-6" fill="#FCFCFF">Console</text>
+<text x="442" y="208" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="62" letter-spacing="-2" fill="#AF94FF">27</text>
+<rect x="69" y="232" width="396" height="2" rx="1" fill="url(#line)"/>
+<text x="69" y="269" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="2.2" fill="#D4D9ED">LINUX SYSTEMS</text>
+<text x="69" y="296" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="600" letter-spacing="2.2" fill="#9AA6C4">CLOUD INFRASTRUCTURE</text>
+<rect x="69" y="329" width="282" height="39" rx="19" fill="#141A2C" stroke="#51476A"/>
+<circle cx="87" cy="348" r="4" fill="#73E8B0"/>
+<text x="104" y="353" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.05" fill="#D7D5E5">FOUNDER  ·  STRENOXCLOUD</text>
+<!-- terminal window -->
+<rect x="613" y="70" width="525" height="296" rx="17" fill="#090D17" stroke="#64718C" stroke-opacity=".56" stroke-width="1.4"/>
+<path d="M630 71H1120Q1138 71 1138 88V119H613V87Q613 71 630 71Z" fill="#181D2B"/>
+<circle cx="639" cy="94" r="5" fill="#FF6475"/><circle cx="656" cy="94" r="5" fill="#F1C76E"/><circle cx="673" cy="94" r="5" fill="#5FDCAA"/>
+<text x="875" y="99" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="12.7" fill="#9DA8C0">terminal://console27</text>
+<path d="M613 119H1138" stroke="#394254"/>
+<text x="646" y="157" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#7BDDB6">❯</text>
+<text x="671" y="157" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#A9B8D7">whoami</text>
+<text x="645" y="190" font-family="DejaVu Sans Mono,monospace" font-size="22" font-weight="700" fill="#F5F5FA">console27</text>
+<text x="646" y="233" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#7BDDB6">❯</text>
+<text x="671" y="233" font-family="DejaVu Sans Mono,monospace" font-size="16" fill="#A9B8D7">cat ~/focus.txt</text>
+<text x="645" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#8E96FF">linux</text>
+<text x="708" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#778399">/</text>
+<text x="728" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#81D9ED">containers</text>
+<text x="840" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#778399">/</text>
+<text x="857" y="263" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#D1B3F7">automation</text>
+<text x="645" y="307" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#8190AB">build systems. keep learning.</text>
+<rect x="982" y="292" width="10" height="19" rx="1" fill="#85E6F7" opacity=".88"/>
+<path d="M1138 336L1108 366" stroke="#8A79E5" stroke-opacity=".6"/>
+</g>
+<rect x=".8" y=".8" width="1198.4" height="428.4" rx="24" fill="none" stroke="#6B648A" stroke-opacity=".4" stroke-width="1.5"/>
+</svg>
