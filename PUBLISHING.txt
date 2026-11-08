@@ -1,0 +1,29 @@
+Console27 GitHub profile update
+===============================
+
+Changes:
+- Removed the full ON THE WORKBENCH section and references to the abandoned projects.
+- Renumbered HOW I THINK to 03.
+- Updated the banner and introduction to a project-neutral professional identity.
+- Removed the obsolete organization from the YAML operator notes.
+- Redesigned Explore Repositories button with adequate spacing between text and arrow.
+
+UPLOAD TO GITHUB
+----------------
+Option A (web UI):
+1. Open https://github.com/console27/console27
+2. Replace the root README.md with this README.md.
+3. Upload assets/hero.svg and assets/explore.svg to the existing assets directory, replacing the two files.
+4. Keep the existing toolkit.svg and footer.svg unchanged.
+5. Optionally delete three unused files in assets/: project-strenoxcloud.svg, project-hvm.svg, project-nvm.svg.
+6. Commit and refresh https://github.com/console27
+
+Option B (git CLI): from a clone of console27/console27, copy the README and assets folder over,
+remove the three obsolete SVG files, then git add/commit/push.
+
+Directory structure in this ZIP:
+README.md
+assets/hero.svg
+assets/toolkit.svg
+assets/explore.svg
+assets/footer.svg

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 125" width="1200" height="125" role="img" aria-labelledby="title"><title id="title">Console27. Built on Linux. Built to last.</title><defs><linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#17162B"/><stop offset="1" stop-color="#0D1421"/></linearGradient><linearGradient id="b"><stop stop-color="#AA87FF"/><stop offset="1" stop-color="#76D5F4"/></linearGradient></defs>
+<rect width="1200" height="125" rx="20" fill="url(#a)" stroke="#4B486A"/>
+<circle cx="52" cy="61" r="17" fill="none" stroke="#9B7CFA" stroke-width="2"/><path d="m58 51-10 10 10 10" stroke="#82E0F0" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="56" font-family="Arial,sans-serif" font-weight="700" font-size="21" fill="#F2F3FA">Build systems. Keep learning.</text>
+<text x="91" y="82" font-family="DejaVu Sans Mono,monospace" font-size="13" fill="#91A2C0">Reliable infrastructure begins with thoughtful engineering.</text>
+<path d="M890 34V91" stroke="#4B5266"/>
+<text x="932" y="57" font-family="DejaVu Sans Mono,monospace" font-size="17" fill="#AE96FF">console27</text>
+<text x="932" y="80" font-family="DejaVu Sans Mono,monospace" font-size="12" fill="#91A2C0">END OF FILE _</text>
+</svg>
